@@ -4,4 +4,5 @@
 
     echo "Computer Engineering"
     echo "Mahanakorn"
+    echo "I am Newbie"
 ?>
